@@ -1,0 +1,360 @@
+[Fri Nov 13 2015 16:58:23 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:58:23 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:06 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:06 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:07 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:07 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:07 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:07 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:39 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:39 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:40 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:40 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:40 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:40 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:41 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:41 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:41 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:41 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 16:59:41 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 16:59:41 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 17:00:01 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 17:00:01 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 17:00:07 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 17:00:07 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 17:00:38 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 17:00:38 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 17:01:43 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 17:01:43 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+[Fri Nov 13 2015 17:02:44 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "index" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\routes\index.js:7:28
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (g:\angular-sportsstore\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:95:5)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+[Fri Nov 13 2015 17:02:44 GMT+0800 (中国标准时间)]/
+Error: Failed to lookup view "error" in views directory "g:\angular-sportsstore\webfront\views"
+    at EventEmitter.render (g:\angular-sportsstore\node_modules\express\lib\application.js:579:17)
+    at ServerResponse.render (g:\angular-sportsstore\node_modules\express\lib\response.js:961:7)
+    at g:\angular-sportsstore\app.js:48:13
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:71:5)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
+    at g:\angular-sportsstore\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (g:\angular-sportsstore\node_modules\express\lib\router\index.js:330:12)
+    at next (g:\angular-sportsstore\node_modules\express\lib\router\index.js:271:10)
+    at Layer.handle_error (g:\angular-sportsstore\node_modules\express\lib\router\layer.js:67:12)
+    at trim_prefix (g:\angular-sportsstore\node_modules\express\lib\router\index.js:310:13)
