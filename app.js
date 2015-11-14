@@ -36,7 +36,6 @@ app.use(function (req, res, next) {
 });
 
 // error handlers
-
 // development error handler
 // will print stacktrace
 if (app.get('env') === 'development') {
@@ -56,6 +55,5 @@ app.use(function (err, req, res, next) {
     errorLogStream.write(meta+err.stack+'\n');
     res.send(err);
 });
-
 
 module.exports = app;

@@ -8,7 +8,6 @@ router.get('/', function (req, res) {
          return res.render('index', {
              docs:docs
          });
-
      });
 
 });
@@ -18,8 +17,6 @@ router.get('/products', function (req, res) {
             console.log(err);
         else
         return res.send(docs);
-
-
     });
 
 });
