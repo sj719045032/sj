@@ -13,7 +13,7 @@ var numCPUs = require('os').cpus().length;
 /**
  * Get port from environment and store in Express.
  */
-var port = normalizePort(process.env.PORT || '3000');
+var port = normalizePort(process.env.PORT || '4444');
 if (cluster.isMaster) {
     for (var i = 0; i < numCPUs; i++) {
         cluster.fork();
@@ -33,7 +33,7 @@ else {
      * Create HTTP server.
      */
     var server = http.createServer(app);
-    server.listen(3000);
+    server.listen(4444);
     /**
      * Listen on provided port, on all network interfaces.
      */

@@ -44,11 +44,7 @@ if (app.get('env') === 'development') {
         res.status(err.status || 500);
         var meta = '['+new Date()+']' + req.url + '\n';
         errorLogStream.write(meta+err.stack+'\n');
-
-        res.render('error', {
-            message: err.message,
-            error: err
-        });
+      res.send(err);
     });
 }
 
@@ -58,10 +54,7 @@ app.use(function (err, req, res, next) {
     res.status(err.status || 500);
     var meta = '['+new Date()+']' + req.url + '\n';
     errorLogStream.write(meta+err.stack+'\n');
-    res.render('error', {
-        message: err.message,
-        error: {}
-    });
+    res.send(err);
 });
 
 
