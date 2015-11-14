@@ -55,5 +55,4 @@ app.use(function (err, req, res, next) {
     errorLogStream.write(meta+err.stack+'\n');
     res.send(err);
 });
-
 module.exports = app;

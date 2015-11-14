@@ -12,11 +12,13 @@
     <script src="controllers/productListControllers.js"></script>
     <script src="component/cart/cart.js"></script>
     <script src="ngmodules/angular-route.min.js"></script>
+    <script src="controllers/checkoutController.js"></script>
 </head>
 <body ng-controller="sportsSroreCtrl">
 
 <div class="navbar navbar-inverse">
     <a class="navbar-brand" href="#">SPORT STORE</a>
+
     <div cart-summary></div>
 </div>
 <div class="alert alert-danger" ng-show="data.err">
