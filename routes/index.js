@@ -16,9 +16,43 @@ router.get('/products', function (req, res) {
     });
 
 });
-router.delete('/products', function (req, res) {
-    console.log(xixi);
-  return  res.status(200).send("xixi");
+router.delete('/products/:_id', function (req, res) {
+    Products.delete(req.params._id, function (err) {
+        console.log(err);
+        if(err){
+            res.status(500).send(err)
+        }
+        else{
+            res.status(200).send("Delete successful!");
+        }
+    });
+
+
+});
+router.post('/products/:_id', function (req, res) {
+    Products.update(req.params._id,req.body, function (err) {
+        console.log(err);
+        if(err){
+            res.status(500).send(err)
+        }
+        else{
+            res.status(200).send("Update successful!");
+        }
+    });
+
+
+});
+router.post('/products', function (req, res) {
+   var product=new Products(req.body);
+    product.save(function (err,product) {
+        if(err){
+            res.status(500).send(err)
+        }
+        else{
+            res.status(200).send(product);
+        }
+    });
+
 
 });
 router.post('/orders', function (req, res) {

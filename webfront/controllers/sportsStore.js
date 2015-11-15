@@ -10,7 +10,6 @@ angular.module("sportsStore")
             $scope.data.products = data;
         }).error(function (err) {
             $scope.data = {};
-            console.log(err);
             $scope.data.err = err;
         });
        $scope.sendOrder= function (shippingDetails) {

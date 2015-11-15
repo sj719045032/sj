@@ -2,12 +2,12 @@
  * Created by shijin on 2015/11/15.
  */
 angular.module("sportsStoreAdmin")
-    .constant("productsUrl", "http://localhost:4444/products")
+    .constant("productsUrl", "http://localhost:4444/products/")
     .config(function ($httpProvider) {
         $httpProvider.defaults.withCredentials=true;
     })
     .controller("productsCtrl", function ($scope, $resource, productsUrl) {
-        $scope.productsResource=$resource(productsUrl+":id",{id:"@id"});
+        $scope.productsResource=$resource(productsUrl+":_id",{_id:"@_id"});
         $scope.listProducts= function () {
             $scope.products=$scope.productsResource.query();
         };
@@ -23,13 +23,13 @@ angular.module("sportsStoreAdmin")
           })
         };
         $scope.updateProduct= function (product) {
-            product.$save();
+            product.$save().then( $scope.listProducts());
             $scope.editedProduct=null;
         };
         $scope.startEdit= function (product) {
             $scope.editedProduct=product;
         };
-        $scope.cancleEdit= function () {
+        $scope.cancelEdit= function () {
             $scope.editedProduct=null;
         };
         $scope.listProducts();

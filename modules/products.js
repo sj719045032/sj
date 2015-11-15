@@ -1,6 +1,7 @@
 /**
  * Created by shijin on 2015/11/14.
  */
+var ObjectID = require('mongodb').ObjectID;
 var mongooseDb = require("./mongooseDb");
 function Product(product) {
     this.name = product.name;
@@ -25,8 +26,9 @@ Product.prototype.save = function (callback) {
         price: this.price
     };
   var  ProductEntity=new ProductModel(product);
-    ProductEntity.save(function (err) {
-        callback(err);
+    ProductEntity.save(function (err,product) {
+
+        callback(err,product);
     })
 };
 
@@ -38,3 +40,18 @@ Product.getSome= function (page, number, callback) {
     })
 };
 
+Product.delete= function (id,callback) {
+
+    var _id=new ObjectID(id);
+    console.log("hehe");
+    ProductModel.remove({_id:_id}, function (err) {
+        callback(err);
+    });
+};
+
+Product.update= function (id,product,callback) {
+    var _id=new ObjectID(id);
+    ProductModel.update({_id:_id},{$set:product}, function (err) {
+        callback(err);
+    });
+};
