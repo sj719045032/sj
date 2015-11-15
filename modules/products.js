@@ -33,7 +33,8 @@ Product.prototype.save = function (callback) {
 Product.getSome= function (page, number, callback) {
     var thePage=page?page:1;
     var theNumber=number?number:10;
-    ProductModel.find().sort({time: -1}).limit(theNumber).skip((thePage - 1) * theNumber).exec(function (err, docs) {
-        callback(err, docs);
+    ProductModel.find().sort({time: -1}).limit(theNumber).skip((thePage - 1) * theNumber).exec(function (err, products) {
+        callback(err,products);
     })
 };
+

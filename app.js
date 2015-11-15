@@ -6,6 +6,8 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var index = require('./routes/index');
+var admin = require('./routes/admin');
+var users = require('./routes/users');
 var MongoStore = require('connect-mongo')(session);
 var settings = require('./settings');
 var app = express();
@@ -26,7 +28,8 @@ var errorLogStream = fs.createWriteStream(__dirname + '/error.log', {flags: 'a'}
 // setup the logger
 app.use(logger('combined', {stream: accessLogStream}));
 app.use('/', index);
-
+app.use('/admin', admin);
+app.use('/users', users);
 /*app.use('/comment', comment);*/
 // catch 404 and forward to error handler
 app.use(function (req, res, next) {
